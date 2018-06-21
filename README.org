@@ -1,0 +1,3 @@
+* ~orgR~
+
+~orgR~ is a collection of templates demonstrating how to use [[https://orgmode.org/][Org mode]] for reproducible research in [[https://cran.r-project.org/][R]].
